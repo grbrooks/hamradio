@@ -2,7 +2,9 @@
 
 .topnav {
     background-color: #333;
-    overflow: scroll;
+    background-image: url("/img/radio.jpg");
+    overflow: hidden;
+    ;
 }
 
 
